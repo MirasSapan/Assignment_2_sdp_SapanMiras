@@ -1,8 +1,6 @@
 package com.miras.factorydemo.abstractfactory;
 
-/**
- * Concrete Factory #2 - produces the Mediterranean family of dishes.
- */
+
 public class MediterraneanCuisineFactory implements CuisineFactory {
 
     @Override
