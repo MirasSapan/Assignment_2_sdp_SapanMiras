@@ -1,8 +1,5 @@
 package com.miras.factorydemo.abstractfactory;
 
-/**
- * Concrete Factory #1 - produces the Asian family of dishes.
- */
 public class AsianCuisineFactory implements CuisineFactory {
 
     @Override
