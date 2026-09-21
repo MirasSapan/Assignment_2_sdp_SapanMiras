@@ -1,10 +1,6 @@
 package com.miras.factorydemo.abstractfactory;
 
-/**
- * An immutable, already-validated bundle of a main dish and a side dish
- * belonging to the same cuisine family. Only {@link MealKitBuilder} can
- * create one.
- */
+
 public final class MealKit {
 
     private final MainDish mainDish;
