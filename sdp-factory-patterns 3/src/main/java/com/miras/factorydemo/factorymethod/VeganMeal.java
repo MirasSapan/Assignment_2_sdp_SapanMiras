@@ -1,8 +1,5 @@
 package com.miras.factorydemo.factorymethod;
 
-/**
- * Concrete Product #1.
- */
 public class VeganMeal extends AbstractMeal {
 
     private static final String DESCRIPTION_TEMPLATE =
