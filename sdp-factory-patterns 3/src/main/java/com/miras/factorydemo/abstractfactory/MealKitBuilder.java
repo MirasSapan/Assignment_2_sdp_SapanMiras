@@ -1,12 +1,6 @@
 package com.miras.factorydemo.abstractfactory;
 
-/**
- * Clean Code principle #5 - Validated construction:
- * build() is the single place that checks invariants (both dishes
- * present, both from the same cuisine) and throws a clear, specific
- * exception instead of letting an inconsistent MealKit silently exist
- * and fail confusingly somewhere downstream.
- */
+
 public class MealKitBuilder {
 
     private MainDish mainDish;
