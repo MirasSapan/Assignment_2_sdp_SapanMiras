@@ -1,8 +1,6 @@
 package com.miras.factorydemo.factorymethod;
 
-/**
- * Concrete Product #2.
- */
+
 public class KetoMeal extends AbstractMeal {
 
     private static final String DESCRIPTION_TEMPLATE =
