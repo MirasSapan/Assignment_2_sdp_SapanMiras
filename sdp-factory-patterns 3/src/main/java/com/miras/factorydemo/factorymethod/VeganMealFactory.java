@@ -1,8 +1,6 @@
 package com.miras.factorydemo.factorymethod;
 
-/**
- * Concrete Creator #1.
- */
+
 public class VeganMealFactory extends MealFactory {
 
     @Override
